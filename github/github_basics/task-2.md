@@ -12,6 +12,6 @@ Steps included are:
 Thats how we connect local to remote
 
 Task-2 completed
-checkout - https://github.com/Mohitgarg-7986/week-4-challenge
+checkout - https://github.com/Mohitgarg-7986/week-4-challenge  <br>
 github link - https://github.com/Mohitgarg-7986
 
