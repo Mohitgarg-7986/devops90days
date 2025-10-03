@@ -1,0 +1,190 @@
+### task-3 of 90daysofdevops
+
+
+commit d775b66d3cd6482de2ea144afcf9a327b3fb4b33
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Fri Oct 3 13:28:15 2025 +0530
+
+    added new
+
+commit 0e355845fc6f84180919e3b2463dafd8f208b3e0
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Fri Oct 3 13:27:18 2025 +0530
+
+    task2
+
+commit a2c0a556dc0e0c8663a6d85d66e06264084caf29
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Fri Oct 3 13:03:06 2025 +0530
+
+    task1
+
+commit df49cc25427803de359d73e132d4f94e92eaafc5
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Fri Oct 3 13:02:04 2025 +0530
+
+    added task1
+
+commit 33f7ad3565d56d38a0614e14d3fd70ff4a892139
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Fri Oct 3 12:58:42 2025 +0530
+
+    added
+
+commit 7ebf1a0cef7681a087530fd31ed3acde6b4247cb
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Fri Oct 3 12:53:21 2025 +0530
+
+    added
+
+commit e988e8e67c76c6f688853db3fbf0b802e17f4024
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Fri Oct 3 12:51:00 2025 +0530
+
+    addedd git
+
+commit f63eb7163694ad96e2ec1729424f147155fcabde
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Mon Sep 29 20:53:25 2025 +0530
+
+    ping test of google
+
+commit 82919f3c586080b28d04daba416c8f76a0aed8ff
+Author: Mohit Garg <garg71039@gmail.com>
+Date:   Mon Sep 29 20:49:55 2025 +0530
+
+    Update task-4.md
+    
+    change
+
+commit f2dded29271a238a8fb873b5688cfee27aca7c3b
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Mon Sep 29 20:48:11 2025 +0530
+
+    added task 4
+
+commit 5db2e275bf56225a9c1365458e93789dd9878433
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 22:50:03 2025 +0530
+
+    week-2-tasks
+
+commit ed30b57ee25061e545a91272bdf3267231d6c2f7
+Author: Mohit Garg <garg71039@gmail.com>
+Date:   Sun Sep 28 22:44:34 2025 +0530
+
+    Update task-3.md
+    
+    task 3
+
+commit 672f7384f89ea6469eadd2382ced68b3445b45dc
+Author: Mohit Garg <garg71039@gmail.com>
+Date:   Sun Sep 28 22:22:31 2025 +0530
+
+    Create task-3.md
+
+commit 70392a868f35aa0afe75710abcf46c697c0cec6e
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 22:12:41 2025 +0530
+
+    changes task 2
+
+commit e72f4be5e892f17931b7498877a7d89662b73801
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 22:10:16 2025 +0530
+
+    change
+
+commit 5389092b1e048a63f4542412a227f74a778c0831
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 22:00:02 2025 +0530
+
+    task-2
+
+commit 55274078ad79854a8e4403b75b2edaba7d3130c7
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 21:49:09 2025 +0530
+
+    chanegs
+
+commit 7c09b8e90c714ba05424dd403e9809d30a3a6e58
+Merge: cedb520 55113b8
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 21:47:09 2025 +0530
+
+    Merge branch 'main' of https://github.com/Mohitgarg-7986/devops90days
+
+commit cedb520db47fb925b554033292c6ad7101f69b96
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 21:46:09 2025 +0530
+
+    deleted
+
+commit 530ca00f827e1e5208eeac65b274be0a7a3d8511
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 21:45:09 2025 +0530
+
+    added commands task -1
+
+commit 55113b8418c5a5462ea0562be611637e11cdb7ad
+Author: Mohit Garg <garg71039@gmail.com>
+Date:   Sun Sep 28 15:03:56 2025 +0530
+
+    Create README.md
+
+commit 9d9f7feba57f4de5dd966f6cc7d29be100d4707c
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 07:17:15 2025 +0000
+
+    delete
+
+commit 00136d5adff17654fa3b071369342dc9a6e5120c
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 12:39:38 2025 +0530
+
+    added
+
+commit 39a808bbd484b3757734b4945c3bb8567de9b028
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 12:24:44 2025 +0530
+
+    deleted
+    
+    git commit -m deleted
+
+commit 683f6e516537278d0b2ee66e233e6751dc0e25a1
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 06:43:29 2025 +0000
+
+    added backups to my project
+
+commit b3849412e259f79387a8b0bf5f664905dbcdb210
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 05:50:20 2025 +0000
+
+    deleted file
+
+commit 7e5df7e2d24ce4a4295c35043582b302b95da162
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 05:40:29 2025 +0000
+
+    added to networking
+
+commit 2b5997aeab97a27008c5e0208f4288f40608d3a5
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 01:25:45 2025 +0530
+
+    added
+
+commit eb1519938f030ea519d243dc3f184c6b465454ac
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 01:22:11 2025 +0530
+
+    added linux
+
+commit 7e1b7e35980e51116fbae3eb8935dc2ea0e43314
+Author: Mohitgarg-7986 <garg71039@gmail.com>
+Date:   Sun Sep 28 01:13:25 2025 +0530
+
+    added
+Task 3 completed
